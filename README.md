@@ -1,12 +1,2 @@
 # Netflix-EDA-Practice
-import pandas as pd
-
-import numpy as np
-
-import matplotlib.pyplot as plt
-
-import seaborn as sns
-
-import warnings
-
-warnings.filterwarnings("ignore")
+Google Colab FIle link - https://colab.research.google.com/drive/17h_FK_mNRo7QhqhjF2Hwbhe2QWBwnONL?hl=en#scrollTo=uX026WTDakY3
